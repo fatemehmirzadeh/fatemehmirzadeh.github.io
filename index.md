@@ -49,10 +49,10 @@ Skills
  * Web design
  * sql server
  
-----------------------------------
+--------------------------------
 
 language 
---------------------------------
+----------
  * English
  * Persian
 
@@ -60,7 +60,7 @@ language
 -----------------------------
 
 Courses and certificates
-------------------------------
+----------------
 * IELTS
     * 1394
 * FCE
@@ -77,7 +77,7 @@ Courses and certificates
 --------------------------
 
 Favorites
-------------------------------
+---------------
 * Deep Learning
 * Neural Networks
 * Machine Learning
@@ -87,7 +87,7 @@ Favorites
 -----------------------------
 
 Entertainments
-------------------------------
+-----------------
 * Driving
 * Figure Drawing
 * Web design
