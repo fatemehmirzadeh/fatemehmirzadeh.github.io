@@ -35,9 +35,9 @@ fatemeh mirzadeh <br>
 ----------------------------------
 Skills
 -------------------------------
- * Fluency in Python programming language
+ * Fluent in Python programming language
  * Mastery of MATLAB programming language
- * Fluency in PHP programming language
+ * Fluent in PHP programming language
  * Fluent in C #
  * Fluent in C ++
  * Fluent in English
