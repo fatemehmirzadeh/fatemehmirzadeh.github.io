@@ -16,8 +16,9 @@ fatemeh mirzadeh <br>
 * I am an English teacher at an institute in Tehran with more than 4 years of teaching experience.
 
 --------------------------------
+
  Educational background
--------------------------------
+---------------------------------
 * Master of Computer Engineering
     * Orientation: Artificial Intelligence and Robotics
         * Institute / University: Semnan University
@@ -33,6 +34,7 @@ fatemeh mirzadeh <br>
        * GPA: 19.26 out of 20
        * Education status: Graduate /1396
 ----------------------------------
+
 Skills
 -------------------------------
  * Fluent in Python programming language
@@ -44,6 +46,7 @@ Skills
  * Photoshop
  * Web design
  * sql server
+ 
 --------------------------------------
 language 
 ------------------------------------
