@@ -31,7 +31,7 @@ fatemeh mirzadeh <br>
 * High school:Dr. Hesabi High School
   * Field: Mathematics and Physics
        * GPA: 19.26 out of 20
-       * Education status: Graduate / (1396-1400)
+       * Education status: Graduate /1396
 ----------------------------------
 Skills
 -------------------------------
