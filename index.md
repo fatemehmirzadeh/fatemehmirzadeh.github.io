@@ -1,55 +1,58 @@
-فاطمه میرزاده <br>
+fatemeh mirzadeh <br>
 ----------------------------------------------
 
 |     email        |    fatemehmirzadeh98@gmail.com    |
 |----------------- |------------------------------------| 
-|     شهر    |        تهران                            |   
-|    تاریخ تولد    |     1377/10/11                    | 
+|     City    |        Tehran                            |   
+|    Birth Date    |     1999/1/1                    | 
 
 ---------------------------------------------------
 
-درباره من 
+ About Me 
 --------------------------------
-برنامه نویس front & back end  با بیش از 2 سال سابقه کار در حوزه طراحی  واستارت آپ<br>
-بیش از 4 سایت شرکتی و فروشگاهی و رزومه (با زبان های php, .NET,..)<br>
-بیش از 4سال سابقه تدریس زبان انگلیسی
+* I am currently pursuing a master's degree in artificial intelligence and robotics at Semnan University
+* I am a front & back end programmer with more than 2 years of experience in the field of design and start-ups.
+*  (More than 4 company and store sites and resumes (in php, .NET, ..))
+* I am an English teacher at an institute in Tehran with more than 4 years of teaching experience.
 
 --------------------------------
-سوابق تحصیلی 
+ Educational background
 -------------------------------
-* کارشناسی ارشد مهندسی کامپیوتر
-    * گرایش :هوش مصنوعی و رباتیکز
-        * موسسه /دانشگاه: دانشگاه سمنان 
-        * روزانه 
-        * وضعیت تحصیل : در حال تحصیل 
-* کارشناسی مهندسی کامپیوتر
-   * گرایش : بدون گرایش 
-        * موسسه /دانشگاه: دانشگاه فرزانگان سمنان 
-        * نوبت دوم 
-        * وضعیت تحصیل : فارغ التحصیل/(1396-1400)
-
+* Master of Computer Engineering
+    * Orientation: Artificial Intelligence and Robotics
+        * Institute / University: Semnan University
+        *  GPA: -
+        *  Education status: Studying
+* Bachelor of Computer Engineering
+   *  Orientation: No orientation
+        *  Institute / University: Farzanegan University of Semnan
+        *  GPA: 17.10 out of 20
+        * Education status: Graduate / (1396-1400)
+* High school:Dr. Hesabi High School
+  * Field: Mathematics and Physics
+       * GPA: 19.26 out of 20
+       * Education status: Graduate / (1396-1400)
 ----------------------------------
-مهارت ها
+Skills
 -------------------------------
- * تسلط بر زبان برنامه نویسی Python
- * تسلط بر زبان برنامه نویسی MATLAB
- * تسلط بر زبان برنامه نویسی PHP
- * تسلط بر C#
- * تسلط بر C++
- * تسلط بر  زبان انگلیسی
- * فتوشاپ
- * طراحی سایت 
-
+ * Fluency in Python programming language
+ * Mastery of MATLAB programming language
+ * Fluency in PHP programming language
+ * Fluent in C #
+ * Fluent in C ++
+ * Fluent in English
+ * Photoshop
+ * Web design
+ * sql server
 --------------------------------------
-زبان 
+language 
 ------------------------------------
- * مهارت نوشتن : 100 %
- * مارت خواندن : 100 %
- * مهارت صحبت کردن :100%
- * مهارت گوش کردن:100%
+ * English
+ * Persian
+
  
 ---------------------------------------
-دوره ها
+Courses and certificates
 -----------------------------------
 * IELTS
     * 1394
@@ -65,18 +68,19 @@
     * 1398
    
 -------------------------------------
-علاقه مندی ها
+Favorites
 ------------------------------------
 * Deep Learning
 * Neural Networks
 * Machine Learning
 * Data Science
+* Artificial intelligence
 
 ------------------------------------------
-شبکه  اجتماعی
+Entertainments
 --------------------------------------
+* Driving
+* Figure Drawing
+* Web design
+* Gaming
 
-|    Instagram      |    fatemeh_.mi77    |
-|-------------------|---------------------|
-|Telegram           |    fa_mi99          |
-  
